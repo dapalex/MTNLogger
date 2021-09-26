@@ -55,10 +55,14 @@ This class makes use of a static ConcurrentDictionary containing a queue for eac
 It is possible also log messages in the same files by different threads.
 
 
-#Flow Sample
+# Flow Sample
 
-![Flow]()
+![Flow](https://github.com/dapalex/MTNLogger/blob/master/Example.png)
 
+  
+  
+  
+  
 
 
 This project has been written in a very short time so it is of course open to improvements and further stress test, anyone contributing is welcome.
